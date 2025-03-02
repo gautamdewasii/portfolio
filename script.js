@@ -25,7 +25,7 @@ let btnCv = document.querySelector('.cv-btn');
 
 btnCv.onclick = () =>
     {
-        window.open("cv/GautamDewasi.pdf", "_blank")
+        window.open("./cv/GautamDewasi.pdf", "_blank")
     }
 
 
